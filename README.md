@@ -18,10 +18,6 @@
 
 ### 1️- Clonar el Repositorio
 
-```bash
-git clone https://github.com/GavoDX63/mongodb.git
-cd GestorNotas_MongoDB
-```
 
 ### 2- Configurar MongoDB
 
