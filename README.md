@@ -19,7 +19,7 @@
 ### 1️- Clonar el Repositorio
 
 ```bash
-git clone https://github.com/23300764/MONGO-DB.git
+git clone https://github.com/GavoDX63/mongodb.git
 cd GestorNotas_MongoDB
 ```
 
